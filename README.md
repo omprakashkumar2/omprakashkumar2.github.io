@@ -1,4 +1,4 @@
-<img width="250" height="60" alt="image" src="https://github.com/user-attachments/assets/be345e11-0071-4706-b69c-8c48decb4d80" /># Data Engineer
+# Data Engineer
 - Having 5+ years of experience as Data Engineer. Specialized in data integration and processing tools on Azure cloud like Azure Data Factory, Azure Databricks and Azure Data Lake. Gained experience in scripting using PySpark and Spark SQL. Good analytical and communication skills.
 
 #### Technical Skills: Python, SQL, PySpark, Pandas, Azure, PowerBI
