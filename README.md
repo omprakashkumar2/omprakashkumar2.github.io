@@ -1,12 +1,12 @@
 # Data Engineer
 - Having 5+ years of experience as Data Engineer. Specialized in data integration and processing tools on Azure cloud like Azure Data Factory, Azure Databricks and Azure Data Lake. Gained experience in scripting using PySpark and Spark SQL. Good analytical and communication skills.
 
-#### Technical Skills: Python, SQL, PySpark, Pandas, Azure, PowerBI
+#### Technical Skills: Python, SQL, PySpark, Pandas, Azure, PowerBI.
 
 ### Education
 - M.Tech, Data and Computational Science | Indian Institute of Technology, Jodhpur, India (_July 2027_)
-- B.Tech, Computer Science and Engineering | Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India (_July 2019_)
-
+- B.Tech, Computer Science and Engineering | Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India (_July 2019_).
+- 
 ### Work Experience
 **Data Engineer @ Cognizant Technology Solutions, Pune, India (_Nov 2023 - Present_)**
 - Designed and implemented 14+ Azure Data Factory ETL pipelines for dimension and fact tables, incorporated incremental load logic to enhance data processing efficiency and performance.
@@ -33,7 +33,7 @@
 - Customized CRM, Sales, Quotation reports Odoo modules to auto lead assignment using python functions.
 - Developed python module for integration of payment gateway with Odoo ERP for online bill payment.
 
-### Industries
+#### Industries
 - Banking
 - Retail
 - Manufacturing
