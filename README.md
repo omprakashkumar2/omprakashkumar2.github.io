@@ -39,10 +39,10 @@
 - Manufacturing
 - Travel & Tourism
 
-
 **Certifications**
 - <a href="https://credentials.databricks.com/e9ef158a-391e-422d-aa83-9e82a75347b9#acc.QArRmFOb">Databricks Certified Data Engineer Associate</a>
 
 **Workshops**
-- <a href="assets/img/advance_drone.png">Advanced Drone (AIR TAXI) Workshop By Bharat Space Education Research Centre</a>
+- <a href="assets/img/aircraft_design.png">Aircraft Design Workshop By Bharat Space Education Research Centre</a>
+- <a href="assets/img/advance_drone.png">Advanced Drone (Air Taxi) Workshop By Bharat Space Education Research Centre</a>
 - <a href="assets/img/advance_rocketry.png">Advance Rocketry Workshop By Bharat Space Education Research Centre</a>
