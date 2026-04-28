@@ -41,8 +41,12 @@
 
 **Certifications**
 - <a href="https://credentials.databricks.com/e9ef158a-391e-422d-aa83-9e82a75347b9#acc.QArRmFOb">Databricks Certified Data Engineer Associate</a>
+- <a href="https://credentials.databricks.com/be6500da-ef76-4752-b3fa-7a214188044c#acc.SUbMrYJP">Databricks Certified Data Engineer Professional</a>
 
 **Workshops**
 - <a href="assets/img/aircraft_design.png">Aircraft Design Workshop By Bharat Space Education Research Centre</a>
 - <a href="assets/img/advance_drone.png">Advanced Drone (Air Taxi) Workshop By Bharat Space Education Research Centre</a>
 - <a href="assets/img/advance_rocketry.png">Advance Rocketry Workshop By Bharat Space Education Research Centre</a>
+
+**Volunteering**
+- <a href="assets/img/fea_volunteering.png">Student Mentor at Freedom Employability Academy</a>
